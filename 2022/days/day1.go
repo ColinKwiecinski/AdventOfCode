@@ -7,7 +7,7 @@ import (
 )
 
 func DayOne() {
-	fmt.Println("AOC Day One")
+	fmt.Println("Day One")
 	data := utils.ReadLines("input/day1.txt")
 	fmt.Println(dayOneA(data))
 	fmt.Println(dayOneB(data))
