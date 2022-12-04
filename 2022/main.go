@@ -5,5 +5,6 @@ import "github.com/colinkwiecinski/AdventOfCode/days"
 func main() {
 	// days.DayOne()
 	// days.DayTwo()
-	days.DayThree()
+	// days.DayThree()
+	days.DayFour()
 }
