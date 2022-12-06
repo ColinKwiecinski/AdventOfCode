@@ -6,5 +6,7 @@ func main() {
 	// days.DayOne()
 	// days.DayTwo()
 	// days.DayThree()
-	days.DayFour()
+	// days.DayFour()
+	days.DayFive()
+	// days.DaySix()
 }
